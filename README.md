@@ -8,9 +8,6 @@ Run this project by this command :
 
 ### Screen shot
 
-Home Page
-
-![Home Page](img/home.png "Home Page")
 
 Add New Product
 
